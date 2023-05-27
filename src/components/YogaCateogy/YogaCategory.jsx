@@ -16,7 +16,7 @@ const YogaCategory = ({category}) => {
 
     const getDetails = async () => {
       
-      const {data} = await axios.get('http://localhost:8000/api/all-yoga-pose');
+      const {data} = await axios.get('https://healthify-app-backend.onrender.com/api/all-yoga-pose');
       // console.log(data);
       setYogaPose(data);
     }

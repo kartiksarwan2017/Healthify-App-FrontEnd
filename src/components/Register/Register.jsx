@@ -24,7 +24,7 @@ const Register = () => {
 		e.preventDefault();
 		try {
 
-			const url = "http://localhost:8000/api/users";
+			const url = "https://healthify-app-backend.onrender.com/api/users";
 			const { data: res } = await axios.post(url, data);
 
 			Swal.fire({

@@ -18,7 +18,7 @@ const SpecificYogaPose = () => {
     const getSingleYogaPose = async () => {
       try {
         const response = await axios.get(
-          `http://localhost:8000/api/specific-yoga-pose/${yogaPoseId}`
+          `https://healthify-app-backend.onrender.com/api/specific-yoga-pose/${yogaPoseId}`
         );
 
         // console.log(response);
