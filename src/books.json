@@ -1,0 +1,76 @@
+{
+    "books": [
+        {
+            "title": "BHAGWAD-GITA AS IT IS",
+            "imgUrl": "https://n1.sdlcdn.com/imgs/b/e/7/Srimad-Bhagavad-Gita-as-it-SDL124718051-1-286a8.jpg",
+            "author": "A. C. Bhaktivedanta Swami Prabhupada",
+            "buyUrl": "https://www.iskconbooks.com/product/bhagavad-gita-as-it-is-regular"
+        },
+        {
+            "title": "The Science of Mind Management",
+            "imgUrl": "https://m.media-amazon.com/images/I/61RdRpWvB5L.jpg",
+            "author": "Swami Mukundananda",
+            "buyUrl": "https://www.flipkart.com/science-mind-management-swami-mukundananda-english-paperback-september-2020-generic/p/itmcc46b95eb7974?pid=RBKFXQYVYWYRVHMJ&lid=LSTRBKFXQYVYWYRVHMJU0YEH5&marketplace=FLIPKART&cmpid=content_regionalbooks_8010956281_u_8965229628_gmc_pla&tgi=sem,1,G,11214002,u,,,395494853184,,,,c,,,,,,,&ef_id=CjwKCAjwscGjBhAXEiwAswQqNDrKghn5c0gk3xyP6kh5rEo-zEcSioplc_J4Z81i_WwnTNjaOn5GhhoCyFoQAvD_BwE:G:s&s_kwcid=AL!739!3!395494853184!!!u!295092701166!&gclid=CjwKCAjwscGjBhAXEiwAswQqNDrKghn5c0gk3xyP6kh5rEo-zEcSioplc_J4Z81i_WwnTNjaOn5GhhoCyFoQAvD_BwE&gclsrc=aw.ds"
+        },
+        {
+            "title": "The Power of Thoughts",
+            "imgUrl": "https://rgdham.org/wp-content/uploads/2022/05/The-Power-Of-Thoughts-Home-Slider.png",
+            "author": "Swami Mukundananda",
+            "buyUrl": "https://www.flipkart.com/the-power-of-thoughts/p/itmbe014291a6484?pid=9780143452331&lid=LSTBOK9780143452331UL4IPM&marketplace=FLIPKART&q=the+power+of+thoughts+by+swami+mukundananda&store=bks&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_1_22_na_na_ps&otracker1=AS_QueryStore_OrganicAutoSuggest_1_22_na_na_ps&fm=search-autosuggest&iid=389cf444-82ef-4d76-9783-021f24554002.9780143452331.SEARCH&ppt=sp&ppn=sp&ssid=5v4uotlqk00000001685118848376&qH=4320b211665ca1d5"
+        },
+        {
+            "title": "7 mindsets for success happiness and fulfilment",
+            "imgUrl": "https://m.media-amazon.com/images/I/81dnw8nYq7L.jpg",
+            "author": "Swami Mukundananda",
+            "buyUrl": "https://www.flipkart.com/7-mindsets-success-happiness-fulfilment/p/itm2bbd213c3eb58?pid=9789355204387&lid=LSTBOK978935520438727EHRJ&marketplace=FLIPKART&q=7+mindsets+for+success+happiness+and+fulfilment&store=bks&srno=s_1_1&otracker=search&otracker1=search&fm=search-autosuggest&iid=e69d08ee-6b4a-4713-b83a-c837dfab694f.9789355204387.SEARCH&ppt=sp&ppn=sp&ssid=f849xtoknk0000001685118879252&qH=7eba0c61af605b78"
+        },
+        {
+            "title": "Bhagavad Gita, The Song of God",
+            "imgUrl": "https://m.media-amazon.com/images/I/71mMa3Q4+4L._AC_UF1000,1000_QL80_.jpg",
+            "author": "Swami Mukundananda",
+            "buyUrl": "https://www.amazon.in/BHAGAVAD-GITA-SONG-Swami-Mukundananda/dp/9355204450"
+        },
+        {
+            "title": "The Science of Self-Realization",
+            "imgUrl": "https://m.media-amazon.com/images/I/51xU0sGif5L.jpg",
+            "author": "A. C. Bhaktivedanta Swami Prabhupada",
+            "buyUrl": "https://www.iskconbooks.com/product/the-science-of-self-realization-english"
+        },
+        {
+            "title": "The Perfection of Yoga",
+            "imgUrl": "https://m.media-amazon.com/images/I/51UCK92BXYL.jpg",
+            "author": "A. C. Bhaktivedanta Swami Prabhupada",
+            "buyUrl": "https://www.iskconbooks.com/product/the-perfection-of-yoga-english"
+        },
+        {
+            "title": "The journey of self-discovery",
+            "imgUrl": "https://m.media-amazon.com/images/I/71TAaqoljbL.jpg",
+            "author": "A. C. Bhaktivedanta Swami Prabhupada",
+            "buyUrl": "https://www.iskconbooks.com/product/the-journey-of-self-discovery-english"
+        },
+        {
+            "title": "Śrī Caitanya-caritāmṛta",
+            "imgUrl": "https://vedabase.io/media/images/en-cc-adi_8GXkjlc.2e16d0ba.fill-240x380.jpg",
+            "author": "A. C. Bhaktivedanta Swami Prabhupada",
+            "buyUrl": "https://www.iskconbooks.com/product/sri-caitanya-caritamrta-9-volumes-hindi"
+        },
+        {
+            "title": "Śrīmad-Bhāgavatam",
+            "imgUrl": "https://m.media-amazon.com/images/I/514h25jJT1L.jpg",
+            "author": "A. C. Bhaktivedanta Swami Prabhupada",
+            "buyUrl": "https://www.iskconbooks.com/product/srimad-bhagavatam-full-set-18-volumes-12-cantos"
+        },
+        {
+            "title": "The Laws of Nature: An Infallible Justice",
+            "imgUrl": "https://theharekrishnamovement.files.wordpress.com/2016/11/the-laws-of-naturejpg.jpg",
+            "author": "A. C. Bhaktivedanta Swami Prabhupada",
+            "buyUrl": "https://www.iskconbooks.com/product/the-laws-of-nature-english"
+        },
+        {
+            "title": "Krishna Consciousness",
+            "imgUrl": "https://images-eu.ssl-images-amazon.com/images/I/71Fs8sE9dBL._AC_UL600_SR600,600_.jpg",
+            "author": "A. C. Bhaktivedanta Swami Prabhupada",
+            "buyUrl": "https://www.iskconbooks.com/product/krishna-consciousness-the-topmost-yoga-system-english"
+        }
+    ]
+}

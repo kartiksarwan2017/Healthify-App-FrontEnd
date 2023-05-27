@@ -1,0 +1,43 @@
+.mental-wellbeing{
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+
+    h1 {
+        text-align: center;
+    }
+   
+
+    .videos-container {
+
+        display: flex;
+        min-width: 500px;
+        justify-content: space-evenly;
+        border: "1px solid red" !important;
+    
+       .video-card-container{
+           margin: 20px;
+           height: 250px;
+           border-radius: 20px;
+
+    
+            iframe{
+               display: block;
+               height: 250px;
+               border-radius: 20px;
+            }
+
+           
+       }
+    
+    }
+    
+    .books-container{
+        display: flex;
+        min-width: 500px;
+        justify-content: space-evenly;
+        border: "1px solid red" !important;
+    
+    }
+}
+
