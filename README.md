@@ -21,7 +21,7 @@ This Application can help senior adults to be Physically, Mentally Healthy.
 
 <br />
 
-## 🔗 Important Links
+## 🔗 APIs Used
 
 > ##  Extnernal API [Calorie Ninjas](https://calorieninjas.com/api)
 > ##  Backend API [Healthify Backend API](https://healthify-app-backend.onrender.com/)
