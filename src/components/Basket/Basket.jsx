@@ -114,6 +114,9 @@ const Basket = () => {
         imageUrl3={imgUrl3}
       />
       <div className="basket">
+
+        <h1>Calorie Finder</h1>
+        <p>Check the Amount of Nutrients in food item</p>
         <Search
           sendValue={storeValue}
           sendEnter={storeClick}
@@ -123,7 +126,7 @@ const Basket = () => {
         <div className="items">
           {allItems.length === 0 ? (
             <div className="error">
-              No food found... <i className="fas fa-pizza-slice"></i>
+              No food found... <img src="https://cdn-icons-png.flaticon.com/128/2805/2805947.png" className="food-basket" />
             </div>
           ) : (
             allItems

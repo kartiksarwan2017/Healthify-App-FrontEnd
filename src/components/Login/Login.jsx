@@ -17,18 +17,17 @@ const Login = () => {
 		try {
 			const url = "https://healthify-app-backend.onrender.com/api/auth";
 			const { data: res } = await axios.post(url, data);
+
+			Swal.fire({
+				title: `Logged in Sucessfully`,
+				icon: 'success',
+				showCloseButton: true
+		    });
 			
 			setTimeout(() => {
 				localStorage.setItem("token", res.data);
 			   window.location = "/";	
 			}, 1000);
-
-			Swal.fire({
-					title: `Logged in Sucessfully`,
-					icon: 'success',
-					showCloseButton: true
-			});
-
 	
 		} catch (error) {
 			if (

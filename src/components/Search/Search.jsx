@@ -22,8 +22,9 @@ const Search = ({sendValue, sendEnter, sendClick}) => {
   return (
     <div className="search">
     <div className='search-box'>
+      <img src="https://cdn-icons-png.flaticon.com/128/7924/7924064.png" className='input-icon'/>
       <input type='text' onChange={handleChange} onKeyDown={keyDown} placeholder='Enter food...' />
-      <button onClick={handleClick} ><HiMagnifyingGlass sizes={25} style={{fontSize: 20}}/></button>
+      <button onClick={handleClick} ><HiMagnifyingGlass sizes={25} style={{fontSize: 25}}/></button>
     </div>
   </div>
   )

@@ -22,7 +22,7 @@ const Header = () => {
 
     setTimeout(() => {
       localStorage.removeItem("token");
-      window.location.reload();
+      window.location = '/login';
     }, 1000); 
     
     Swal.fire({

@@ -4,7 +4,8 @@ import "./Item.scss";
 const Item = (props) => {
 
   return (
-    <div className='item'>
+  <>
+  <div className='item'>
     <div className='item-top'>
       <div className='item-head'>
         <h4>{props.name}</h4>
@@ -89,6 +90,7 @@ const Item = (props) => {
       
     </div>
   </div>
+  </>
   )
 }
 
