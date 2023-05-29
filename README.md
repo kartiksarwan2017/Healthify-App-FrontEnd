@@ -17,14 +17,14 @@ This Application can help senior adults to be Physically, Mentally Healthy.
 ## 🔗 Important Links
 
 > ## Checkout the Website [Web Application](https://healthify-app-front-end.vercel.app/)
-> ## Backend API [Healthify Backend API](https://documenter.getpostman.com/view/9062378/2s93m8yfS3)
+> ## Backend API [Healthify Backend API](https://healthify-app-backend.onrender.com/)
 
 <br />
 
 ## 🔗 APIs Used
 
 > ##  Extnernal API [Calorie Ninjas](https://calorieninjas.com/api)
-> ##  Backend API [Healthify Backend API](https://healthify-app-backend.onrender.com/)
+> ##  Backend API [Healthify Backend API](https://documenter.getpostman.com/view/9062378/2s93m8yfS3)
 
 <br/>
 
