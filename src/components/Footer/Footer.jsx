@@ -14,6 +14,7 @@ const Footer = () => {
           <div className="col-sm-12 col-md-6">
             <h6>About</h6>
             <p className="text-justify">Healthify <i>A Healthy Diet, A Better Life</i> <br/> Helps Senior Adults for Physically, Spiritually, Mentally Healthy. </p>
+            <img src="https://masterbundles.com/wp-content/uploads/2023/04/1-342-2.jpg"  id="logo-img" />
           </div>
 
           <div className="col-xs-6 col-md-3">
