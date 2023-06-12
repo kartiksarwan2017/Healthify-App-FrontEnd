@@ -22,10 +22,10 @@ function App() {
           <Route exact path="/login" element={<Login />} />
           <Route exact path="/home" element={<Home />} /> 
           <Route path="/" element={<Navigate replace to="/home" />} />
-          <Route exact path="/yoga-poses/standing" element={<YogaFitness category={"standing"} />} /> 
           <Route exact path="/calorie-check" element={<Basket />} /> 
           <Route exact path="/mental-wellbeing" element={<MentalWellBeing />} /> 
           <Route exact path="/specific-yoga-pose/:yogaPoseId" element={<SpecificYogaPose />} /> 
+          <Route exact path="/yoga-poses/standing" element={<YogaFitness category={"standing"} />} /> 
           <Route exact path="/yoga-poses/sitting" element={<YogaFitness category={"sitting"} />} />
           <Route exact path="/yoga-poses/lying" element={<YogaFitness category={"lying"} />} />
         </Routes>
