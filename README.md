@@ -31,7 +31,7 @@ This Application can help senior adults to be Physically, Mentally Healthy.
 ## Features
 
 - **Sign Up**
-<p> User can able to create his/her new account if it doesn't exists earlier. Details required to create a new account are firstName, lastName, email, password. d</p>
+<p> User can able to create his/her new account if it doesn't exists earlier. Details required to create a new account are firstName, lastName, email, password.</p>
 
 - **Sign In**
 <p> User can able to login to the existing account by entering the details such as email, password.</p>
