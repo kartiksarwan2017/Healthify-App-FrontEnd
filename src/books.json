@@ -32,7 +32,7 @@
         },
         {
             "title": "The Quran",
-            "imgUrl": "https://m.media-amazon.com/images/I/A1yfcqUGTqL._AC_UY218_.jpg",
+            "imgUrl": "https://m.media-amazon.com/images/I/51o4iba6bQL._SX319_BO1,204,203,200_.jpg",
             "author": "Abdullah Yusuf Ali",
             "buyUrl": "https://www.amazon.in/Quran-Colour-Coded-English-Transliteration/dp/B012CCFDD2/ref=sr_1_1?qid=1688362577&refinements=p_27%3AQURAN&s=books&sr=1-1"
         },
@@ -119,6 +119,12 @@
             "imgUrl": "https://m.media-amazon.com/images/I/51OCdTvR7kL._SX323_BO1,204,203,200_.jpg",
             "author": "Lao Tzu",
             "buyUrl": "https://www.amazon.in/Tao-Te-Ching-Penguin-Classics/dp/014044131X"
+        },
+        {
+            "title": "Guru Nanak: The First Sikh Guru",
+            "imgUrl": "https://m.media-amazon.com/images/I/41Fa+lYMVWL.jpg",
+            "author": "Harish Dhillon",
+            "buyUrl": "https://www.amazon.in/Guru-Nanak-First-Spiritual-Masters/dp/935357630X"
         }
     ]
 }
