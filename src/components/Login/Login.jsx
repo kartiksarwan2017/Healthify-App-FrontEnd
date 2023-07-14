@@ -27,7 +27,7 @@ const Login = () => {
 			setTimeout(() => {
 				localStorage.setItem("token", res.data);
 			   window.location = "/";	
-			}, 500);
+			}, 0);
 	
 		} catch (error) {
 			if (
